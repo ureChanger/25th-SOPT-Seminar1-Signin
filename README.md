@@ -1,1 +1,2 @@
-# sopt_semina_1
+# SOPT-Semina1-Signin
+SOPT Semina1 assignment Signin

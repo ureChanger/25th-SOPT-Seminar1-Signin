@@ -1,2 +1,2 @@
-# SOPT-Semina1-Signin
-SOPT Semina1 assignment Signin
+# SOPT-Seminar1-Signin
+SOPT Seminar1 assignment Signin
